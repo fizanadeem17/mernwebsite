@@ -1,0 +1,28 @@
+*{ margin: 0; padding: 0%; box-sizing: border-box;}
+
+body{
+    background-image: url('wepik-hand-drawn-nature-amp-mountains-zoom-background-20231110195404ywPI.png');
+}
+form{
+    background: transparent;
+    border: 2px solid rgba(255,255,255.2);
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    padding: 25px 50px;
+}
+.mb-2{
+    font-size: 12px;
+    
+}
+button{
+    width: 250px;
+}
+h6{
+    font-size: 12px;
+    color: white;
+}
+h3{
+    color: rgb(14, 50, 57);
+}
+
